@@ -5,7 +5,16 @@
 
 За основу взят create-react-app
 
+---
 Storybook [здесь](https://ivankalachikov.github.io/jino-test-assessment/storybook-static/index.html?path=/story/test-assessment-component-select--medium-select)
+
+---
+
+Видео:
+
+[1 часть (создание компонента)](https://www.dropbox.com/s/hmmzg0bkncizk1p/entirefliesconsumeactually%20on%202021-06-16%2013-05.mp4?dl=0)
+
+[2 часть (интеграция в storybook, создание репозитория)](https://www.dropbox.com/s/jiapqgmqqpvo8zy/entirefliesconsumeactually%20on%202021-06-16%2014-11.mp4?dl=0)
 
 ---
 
