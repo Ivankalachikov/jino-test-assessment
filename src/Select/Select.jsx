@@ -3,7 +3,7 @@ import _ from 'lodash';
 import './Select.scss';
 
 const Select = ({
-  size, options, name, startValue = options[0].value, label = 'Select an option', disabled,
+  size = 'l', options = [], name, startValue = options[0].value, label = 'Select an option', disabled,
 }) => {
   const inputRef = useRef(null);
   const [optionsWithIds, setOptionsWithIds] = useState([]);
