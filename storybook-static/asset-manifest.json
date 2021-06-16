@@ -1,9 +1,9 @@
 {
   "files": {
     "0.db937a76.iframe.bundle.js": "./0.db937a76.iframe.bundle.js",
-    "main.css": "./static/css/main.4efb8510.chunk.css",
+    "main.css": "./static/css/main.67646642.chunk.css",
     "main.js": "./main.4f18167e.iframe.bundle.js",
-    "main.css.map": "./static/css/main.4efb8510.chunk.css.map",
+    "main.css.map": "./static/css/main.67646642.chunk.css.map",
     "runtime~main.js": "./runtime~main.8c086e16.iframe.bundle.js",
     "vendors~main.js": "./vendors~main.b27e9d10.iframe.bundle.js",
     "vendors~main.js.map": "./vendors~main.b27e9d10.iframe.bundle.js.map",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "runtime~main.8c086e16.iframe.bundle.js",
     "vendors~main.b27e9d10.iframe.bundle.js",
-    "static/css/main.4efb8510.chunk.css",
+    "static/css/main.67646642.chunk.css",
     "main.4f18167e.iframe.bundle.js"
   ]
 }
